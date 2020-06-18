@@ -1,2 +1,0 @@
-javainfo
-hahahaha
